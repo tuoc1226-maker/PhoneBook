@@ -1,4 +1,4 @@
-# PhoneBook (Written by 中林)
+# PhoneBook
 
 A minimal phone book application built to the "Software Specifications" task sheet:
 SDI document/view architecture, a list-view of name/sex/phone, Add/Edit/Delete, and
